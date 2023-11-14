@@ -1119,14 +1119,14 @@
                 <input type="text" class="form-control" name="subject" id="subject" placeholder="Предмет" required>
               </div>
               <div class="form-group">
-                <textarea class="form-control" name="message" rows="5" placeholder="Сообщение" required></textarea>
+                <textarea class="form-control" id="message" name="message" rows="5" placeholder="Сообщение" required></textarea>
               </div>
               <!-- <div class="my-3">
                 <div class="loading">Loading</div>
                 <div class="error-message"></div>
                 <div class="sent-message">Your message has been sent. Thank you!</div>
               </div> -->
-              <div class="text-center"><button type="submit">Отправить сообщение</button></div>
+              <div class="text-center"><button id="submit-btn" type="submit">Отправить сообщение</button></div>
             </form>
           </div>
 
@@ -1518,6 +1518,33 @@
 
   <!-- Localization Goes Here -->
   <script src="js/i18n.js"></script> 
+
+  <!-- Bot Goes Here -->
+  <script type="text/javascript">
+    document.querySelector('#submit-btn').onclick = function() {
+            // let phone = document.querySelector('#phone').value;
+            let email = document.querySelector('#email').value;
+            let name = document.querySelector('#name').value;
+            let subject = document.querySelector('#subject').value;
+            let text = document.querySelector('#message').value;
+
+            if (email.length <= 1 && email === "") {
+                alert("Please fill the email input");
+            } else {
+                let xHttp = new XMLHttpRequest();
+                let message = "Сообщение с веб-сайта\n📧Почта: " + email + "\n" + "👦Имя: " + name + '\n' + "📋Предмет: " + subject + '\n' + "✍️Сообщение: " + text;
+
+                const token = "6851573310:AAHHPbo4FJ96xM3AVbfoY-5pdyIwlDO3XTk";
+                const chatId = "-4076667304";
+                let url = 'https://api.telegram.org/bot' + token + '/sendMessage?chat_id=' + chatId + '&text=';
+                xHttp.open("GET", url + encodeURIComponent(message), true);
+                xHttp.send();
+
+                alert('Successfully sent');
+            }
+
+    }
+  </script>
 
 
 
