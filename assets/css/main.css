@@ -2398,7 +2398,8 @@ section {
 }
 
 .footer-nav li {
-  padding: 12px;
+    padding: 12px;
+    padding-left: 0;
 }
 
 .footer-nav li a {
@@ -2532,6 +2533,12 @@ section {
   text-align: center;
   font-size: 13px;
   color: var(--color-secondary);
+}
+
+@media screen and (max-width: 768px) {
+  .footer .footer-content {
+    padding: 60px 15px 30px 15px;
+ }
 }
 
 /*--------------------------------------------------------------
