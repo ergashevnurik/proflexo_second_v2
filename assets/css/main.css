@@ -640,7 +640,7 @@ section {
     border-left: 3px solid #1b2f45;
     border-bottom: 3px solid #1b2f45;
     animation: down 3s infinite;
-    opacity: 0;
+    opacity: 1;
 }
 
 @keyframes down {
@@ -654,7 +654,7 @@ section {
   }
   100% {
     transform: translate(-50%,-80%) rotate(315deg); 
-    opacity: 0
+    opacity: 1
   }
 }
 
