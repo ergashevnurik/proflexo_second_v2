@@ -179,9 +179,9 @@
   				"en": "Our packaging is customized to meet each customer's unique needs, making our solutions ideal for a variety of industries."
   			},
   			"control_qualities": {
-  				"uz": "Quality control",
+  				"uz": "Sifat nazorati",
   				"ru": "Контроль Качества",
-  				"en": "Sifat nazorati"
+  				"en": "Quality control"
   			},
   			"control": {
   				"uz": "Biz ishlab chiqarishning har bir bosqichini qat'iy nazorat qilamiz, eng yuqori sifat standartlari va mahsulot ishonchliligini kafolatlaymiz.",
@@ -899,6 +899,149 @@
   				"ru": "Оставьте свои данные",
   				"en": "Leave your details"
   			}
+  		},
+  		"partners": {
+  			"title": {
+  				"ru": "Партнеры",
+  				"en": "Partners",
+  				"uz": "Hamkorlar"
+  			},
+  			"description": {
+  				"ru": '<b>Нам <i class="text-primary">доверяют</i></b>',
+  				"en": '<b>We are <i class="text-primary">trusted</i></b>',
+  				"uz": '<b>Biz <i class="text-primary">ishonchlimiz</i></b>'
+  			}
+  		},
+  		'features': {
+  			"title": {
+  				"ru": "Вы нам всегда нужны :) <br>Что интересует:",
+  				"en": "We always need you :) <br>What interests you:",
+  				"uz": "Siz bizga doim keraksiz :) <br>Bizni nima qiziqtiradi:"
+  			},
+  			"p1": {
+  				"ru": "Пленки PET, MPET, BOPP, CPP, MCPP",
+  				"en": "Stretches PET, MPET, BOPP, CPP, MCPP",
+  				"uz": "PET, MPET, BOPP, CPP, MCPP paketlari"
+  			},
+  			"p3": {
+  				"ru": "Полиэтиленовые гранулы и добавки",
+  				"en": "Polyethylene granules and additives",
+  				"uz": "Polietilen granulalar va qo'shimchalar"
+  			},
+  			"p2": {
+  				"ru": "Флексографические краски",
+  				"en": "Flexographic inks",
+  				"uz": "Fleksografik siyohlar"
+  			},
+  			"p4": {
+  				"ru": "Растворители",
+  				"en": "Solvents",
+  				"uz": "Solventlar"
+  			},
+  			"p5": {
+  				"ru": "Монтажные скотчи",
+  				"en": "Mounting tapes",
+  				"uz": "O'rnatish lentalari"
+  			},
+  			"p6": {
+  				"ru": "Ракельные ножи",
+  				"en": "Squeegee knives",
+  				"uz": "Tozalash pichoqlari"
+  			},
+  			"hello": {
+  				"ru": "Привет!Мы всегда рады общению.",
+  				"en": "Hello! We are always happy to communicate.",
+  				"uz": "Salom! Biz doimo muloqot qilishdan xursandmiz."
+  			},
+  			"desc": {
+  				"ru": "Позвоните нам или оставьте свои контактные данные, и мы свяжемся с вами в ближайшее время. Наша команда готова предоставить вам качественный сервис и ответить на все ваши вопросы. Ждем вашего звонка или сообщения!",
+  				"uz": "Bizga qo'ng'iroq qiling yoki aloqa ma'lumotlaringizni qoldiring va biz imkon qadar tezroq siz bilan bog'lanamiz. Bizning jamoamiz sizga sifatli xizmat ko'rsatishga va barcha savollaringizga javob berishga tayyor. Qo'ng'iroq yoki xabaringizni kutamiz!",
+  				"en": "Call us or leave your contact details and we will contact you as soon as possible. Our team is ready to provide you with quality service and answer all your questions. We are waiting for your call or message!"
+  			},
+  			"leave": {
+  				"ru": "Оставь данные",
+  				"en": "Leave your details",
+  				"uz": "Tafsilotlaringizni qoldiring"
+  			}
+
+  		},
+  		"testimonials": {
+  			"title": {
+  				"ru": "Отзывы",
+  				"en": "Reviews",
+  				"uz": "Sharhlar"
+  			},
+  			"description": {
+  				"ru": '<b>Что <i class="text-primary">говорят о нас?</i></b>',
+  				"en": '<b>What do they<i class="text-primary">say about us?</i></b>',
+  				"uz": '<b>Biz haqimizda<i class="text-primary">nima aytishadi?</i></b>'
+  			}
+  		},
+  		"contact": {
+  			"title": {
+  				"ru": "Контакты",
+  				"en": "contacts",
+  				"uz": "Kontaktlar"
+  			},
+  			"p1": {
+  				"ru": 'Наши <i class="text-primary">контакты</i></b>',
+  				"en": 'Our <i class="text-primary">contacts</i></b>',
+  				"uz": '<i class="text-primary">kontaktlarimiz</i></b>'
+  			},
+  			"p2": {
+  				"ru": "Наш адрес",
+  				"en": "Our address",
+  				"uz": "Bizning manzil"
+  			},
+  			"p3": {
+  				"ru": "г.Ташкент,Юнусабадский р-н. ул.Каракамишская, 2в",
+  				"en": "Tashkent, Yunusabad district. Karakamishskaya st., 2v",
+  				"uz": "Toshkent shahri, Yunusobod tumani. Karakamishskaya ko'chasi, 2v"
+  			},
+  			"p4": {
+  				"ru": "Электронная почта",
+  				"en":  "Email",
+  				"uz": "Elektron pochta",
+  			},
+  			"p5": {
+  				"ru": "Номер телефона",
+  				"en": "Phone number",
+  				"uz": "Telefon raqami"
+  			},
+  			"p6": {
+  				"ru": "Дополнительные номера",
+  				"en": "Additional numbers",
+  				"uz": "Qo'shimcha raqamlar"
+  			},
+  			"p7": {
+  				"ru": "Отправить сообщение",
+  				"en": "send a message",
+  				"uz": "xabar yubormoq"
+  			}
+  		},
+  		"footer": {
+  			"title": {
+  				"ru": "<b>Вы тоже можете оказаться в этой команде:)</b>",
+  				"en": "<b>You too can be on this team :)</b>",
+  				"uz": "<b>Siz ham bu jamoada bo'lishingiz mumkin :)</b>"
+  			},
+  			"description": {
+  				"ru": "Хотите расти вместе с нами? Теперь докажите нам, что вам это нужно! Станьте неотъемлемой частью команды",
+  				"en": "Do you want to grow with us? Now prove to us that you need it! Become an integral part of the team",
+  				"uz": "Biz bilan o'sishni hohlaysizmi? Endi bizga bu sizga kerakligini isbotlang! Jamoaning ajralmas qismiga aylaning"
+  			},
+  			"p1": {
+  				"ru": "Позвони прямо сейчас и узнать есть ли свободные места",
+  				"en": "Call now and find out if there are free places",
+  				"uz": "Hozir qo'ng'iroq qiling va bepul joylar bor yoki yo'qligini bilib oling"
+
+  			},
+  			"p2": {
+  				"ru": 'или пройди по ссылке <a href="https://hh.uz/employer/9489905?hhtmFrom=vacancy_search_list">перейти</a>',
+  				"en": 'or follow the link <a href="https://hh.uz/employer/9489905?hhtmFrom=vacancy_search_list">go</a>',
+  				"uz": 'yoki <a href="https://hh.uz/employer/9489905?hhtmFrom=vacancy_search_list">borish</a> havolasiga oting'
+  			},
+
   		}
  };
 
