@@ -59,7 +59,7 @@
           "en": "Focus on what's important"
     		},
     		"description": {
-      		"uz": "Innovatsion bosib chiqarish bilan moslashuvchan qadoqlash va kino materiallarini professional ishlab chiqarish. Pro Flexo sifatli va ijodiy qadoqlash bo'yicha ishonchli hamkoringizdir.",
+      		"uz": "Innovatsion bosib chiqarish bilan moslashuvchan qadoqlash va plyonka materiallarini professional ishlab chiqarish. Pro Flexo sifatli va ijodiy qadoqlash bo'yicha ishonchli hamkoringizdir.",
           "ru": "Профессиональное производство гибкой упаковки и пленочных материалов с инновационной печатью. Pro Flexo - ваш надежный партнер для качественной и креативной упаковки.",
           "en": "Professional production of flexible packaging and film materials with innovative printing. Pro Flexo is your reliable partner for quality and creative packaging."
     		},
@@ -1031,7 +1031,7 @@
   				"uz": "Biz bilan o'sishni hohlaysizmi? Endi bizga bu sizga kerakligini isbotlang! Jamoaning ajralmas qismiga aylaning"
   			},
   			"p1": {
-  				"ru": "Позвони прямо сейчас и узнать есть ли свободные места",
+  				"ru": "Позвони прямо сейчас и узнай есть ли свободные места",
   				"en": "Call now and find out if there are free places",
   				"uz": "Hozir qo'ng'iroq qiling va bepul joylar bor yoki yo'qligini bilib oling"
 
