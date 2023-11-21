@@ -914,9 +914,9 @@
   		},
   		'features': {
   			"title": {
-  				"ru": "Вы нам всегда нужны :) <br>Что интересует:",
-  				"en": "We always need you :) <br>What interests you:",
-  				"uz": "Siz bizga doim keraksiz :) <br>Bizni nima qiziqtiradi:"
+  				"ru": "Вы нам всегда нужны <br>Что интересует:",
+  				"en": "We always need you <br>What interests you:",
+  				"uz": "Siz bizga doim keraksiz <br>Bizni nima qiziqtiradi:"
   			},
   			"p1": {
   				"ru": "Пленки PET, MPET, BOPP, CPP, MCPP",
@@ -1021,9 +1021,9 @@
   		},
   		"footer": {
   			"title": {
-  				"ru": "<b>Вы тоже можете оказаться в этой команде:)</b>",
-  				"en": "<b>You too can be on this team :)</b>",
-  				"uz": "<b>Siz ham bu jamoada bo'lishingiz mumkin :)</b>"
+  				"ru": '<b>Вы тоже можете оказаться в этой <i class="text-primary">команде</i>:)</b>',
+  				"en": '<b>You too can be in this <i class="text-primary">team</i>:)</b>',
+  				"uz": '<b>Siz ham ushbu <i class="text-primary">jamoada</i> bo\'lishingiz mumkin:)</b>'
   			},
   			"description": {
   				"ru": "Хотите расти вместе с нами? Теперь докажите нам, что вам это нужно! Станьте неотъемлемой частью команды",
@@ -1042,7 +1042,19 @@
   				"uz": 'yoki <a href="https://hh.uz/employer/9489905?hhtmFrom=vacancy_search_list">borish</a> havolasiga oting'
   			},
 
-  		}
+  		},
+      "career": {
+        "title": {
+          "ru": "Карьера",
+          "en": "Career",
+          "uz": "Karyera"
+        },
+        "description": {
+          "ru": '<b>Присоединяйтесь  <i class="text-primary">к нам</i></b>',
+          "en": '<b>Join <i class="text-primary">us</i></b>',
+          "uz": '<b><i class="text-primary">Bizga</i></b> qo\'shiling'
+        }
+      }
  };
 
 (function () {
